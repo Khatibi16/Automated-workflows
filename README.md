@@ -7,4 +7,8 @@ Lastly, the image, which is initially in the URL format, will be converted to th
 AI agents used: OpenAI's GPT (generally use the 4o-mini version). OpenAI has strict limits, so it is not possible to make a lot of posts at one time. Good pacing between two consecutive posts is recommended. 
 Dumpling AI: For prolonged use of this workflow, updating to the paid version is recommended. 
 
-
+Credentials to be created in n8n:
+1. Linkedin
+2. OpenAI
+3. Google Sheets
+4. Dumpling AI
