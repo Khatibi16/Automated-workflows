@@ -8,7 +8,13 @@ AI agents used: OpenAI's GPT (generally use the 4o-mini version). OpenAI has str
 Dumpling AI: For prolonged use of this workflow, updating to the paid version is recommended. 
 
 Credentials to be created in n8n:
-1. Linkedin
+1. LinkedIn
 2. OpenAI
 3. Google Sheets
 4. Dumpling AI
+
+Few key points:
+- While the workflow is tested multiple times and seems to be correct, if it is disrupted, the reason can probably be that the rate limit of the AI tools used is reached, especially OpenAI. It is better to use an account that is not being used for any other purpose. Sometimes, if a new account fails, try switching through different models.
+- Dumpling AI has limited free credits for the unpaid version; beyond that, a paid version is required.
+- The LinkedIn account used for posting should also be configured through the LinkedIn developer tool (a few new apps are required to be created).
+- Keep an eye on the API Keys, if any of them expire at any time.
