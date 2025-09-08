@@ -5,7 +5,7 @@ The Google Sheets get updated with the 'status' now being 'created' (at first, i
 Lastly, the image, which is initially in the URL format, will be converted to the required binary format by the HTTP node, and a LinkedIn post will be made with the article and the image. 
 
 AI agents used: OpenAI's GPT (generally use the 4o-mini version). OpenAI has strict limits, so it is not possible to make a lot of posts at one time. Enough pacing between two consecutive posts is recommended. 
-Dumpling AI: For prolonged use of this workflow, updating to the paid version is recommended. 
+Dumpling AI: For prolonged use of this workflow, updating to the paid version is recommended.
 
 Credentials to be created in n8n:
 1. LinkedIn
