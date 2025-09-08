@@ -19,4 +19,4 @@ Few key points:
 - The LinkedIn account used for posting should also be configured through the LinkedIn developer tool (a few new apps are required to be created).
 - Keep an eye on the API Keys, if any of them expire at any time.
 
-** The JSON can be copied and pasted in the n8n workflow environment.
+** The JSON can be copied and pasted in the n8n workflow environment. **
