@@ -18,3 +18,5 @@ Few key points:
 - Dumpling AI has limited free credits for the unpaid version; beyond that, a paid version is required.
 - The LinkedIn account used for posting should also be configured through the LinkedIn developer tool (a few new apps are required to be created).
 - Keep an eye on the API Keys, if any of them expire at any time.
+
+** The JSON can be copied and pasted in the n8n workflow environment.
